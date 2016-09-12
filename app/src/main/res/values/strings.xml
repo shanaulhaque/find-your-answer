@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FYP</string>
+    <string name="search_answer">Search</string>
+    <string name="ask_your_question">Ask your query</string>
+</resources>
